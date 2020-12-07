@@ -4,6 +4,7 @@
 
 body {
     background-image: url(https://st.depositphotos.com/1172243/3589/i/600/depositphotos_35893879-stock-photo-background-with-subtle-seamless-pattern.jpg);
+    box-sizing: border-box;
 }
 
 footer {
@@ -12,6 +13,10 @@ footer {
     height: 50px;
     bottom: 0;
     left: 0;
+}
+
+.yellow-text {
+    color: #f8c73f;
 }
 
 .footer-top-bar {

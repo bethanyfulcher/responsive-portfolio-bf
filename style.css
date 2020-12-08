@@ -26,12 +26,19 @@ h1 {
 }
 
 .container {
-    height: 100%;
-    width: 100%;
-    margin: 50px auto;
+    /* height: 100%; */
+    /* width: 100%; */
+    /* margin: 50px auto; */
     background-color: white;
 }
 
 #title-bg-color {
     background-color: #fce095;
 }
+ img{
+   margin-bottom: 10px;
+ }
+
+ .floatingImg{
+     float: left;
+ }

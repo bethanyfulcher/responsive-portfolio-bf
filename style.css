@@ -1,12 +1,15 @@
+/* specified font for all text */
 * {
     font-family: Tahoma, sans-serif;
 }
 
+/* set background to an image */
 body {
     background-image: url(https://st.depositphotos.com/1172243/3589/i/600/depositphotos_35893879-stock-photo-background-with-subtle-seamless-pattern.jpg);
     box-sizing: border-box;
 }
 
+/* set up footer color, size, and positioning */
 footer {
     background-color: grey;
     width: 100%;
@@ -15,42 +18,51 @@ footer {
     left: 0;
 }
 
+/* sets all h1 headers to orange/yellow */
 h1 {
     color: #f8c73f;
 }
 
+/* made all p tags have large font and a left-side padding */
 p {
     font-size: large;
     padding: 0 0 30px 0;
 }
 
+/* added left-side padding to buttons */
 button {
     margin: 0 0 10px 0;
 }
 
+/* added a bottom margin to all image tags */
 img{
     margin-bottom: 10px;
 }
 
+/* this is the yellow top bar seen at the top of the footer */
 .footer-top-bar {
     background-color: #f5d273;
     width: 100%;
     height: 10px;
 }
 
+/* floats image on index left so text can wrap around. also adds margin */
 .floatingImg{
     float: left;
     margin: 20px;
 }
 
+/* displays a white background to the container */
 .container {
 background-color: white;
 }
 
+/* changes the color of the button to orange/yellow */
 .btn-color{
     background-color: #f5d273;
 }
 
+/* sets a background color to the main title on all pages */
 #title-bg-color {
  background-color: #fce095;
  }

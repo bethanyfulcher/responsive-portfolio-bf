@@ -16,10 +16,15 @@ The 'Portfolio' section should feature images of Bethany's work but is currently
 
 ## Web Site:
 Visit Bethany Fulcher's Portfolio web site at:
+    https://bethanyfulcher.github.io/responsive-portfolio-bf/
 
 ## Screenshot:
 The following images shows the web application's appearance and functionality.
 
 ![index](./images/aboutMe.png)
+
+
 ![portfolio](./images/portfolio.png)
+
+
 ![contact](./images/contact.png)

@@ -19,6 +19,14 @@ h1 {
     color: #f8c73f;
 }
 
+p {
+    font-size: large;
+}
+
+button {
+    margin: 0 0 10px 0;
+}
+
 .footer-top-bar {
     background-color: #f5d273;
     width: 100%;
@@ -41,4 +49,9 @@ h1 {
 
  .floatingImg{
      float: left;
+     margin: 20px;
+ }
+
+ .btn-color{
+     background-color: #f5d273;
  }

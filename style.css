@@ -28,31 +28,29 @@ button {
     margin: 0 0 10px 0;
 }
 
+img{
+    margin-bottom: 10px;
+}
+
 .footer-top-bar {
     background-color: #f5d273;
     width: 100%;
     height: 10px;
 }
 
+.floatingImg{
+    float: left;
+    margin: 20px;
+}
+
 .container {
-    /* height: 100%; */
-    /* width: 100%; */
-    /* margin: 50px auto; */
-    background-color: white;
+background-color: white;
+}
+
+.btn-color{
+    background-color: #f5d273;
 }
 
 #title-bg-color {
-    background-color: #fce095;
-}
- img{
-   margin-bottom: 10px;
- }
-
- .floatingImg{
-     float: left;
-     margin: 20px;
- }
-
- .btn-color{
-     background-color: #f5d273;
+ background-color: #fce095;
  }
